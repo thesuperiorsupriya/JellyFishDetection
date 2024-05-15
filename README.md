@@ -107,7 +107,7 @@ source '0' for webcam
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ### Demo
 
-
+https://youtu.be/7xgC3TYbZ7w?si=GL5Na1QclSuPVh_i
  
 
 https://github.com/thesuperiorsupriya/JellyFishDetection/assets/154125788/576877d5-8e13-4555-b31e-aa33c3736df2
