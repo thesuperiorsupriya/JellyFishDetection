@@ -10,8 +10,8 @@ Enhance image quality using techniques like contrast adjustment, noise reduction
 Normalize and resize images to a consistent format suitable for model training.
 Model Selection:
 
-Evaluate and choose appropriate object detection models such as Faster R-CNN, YOLO (You Only Look Once), or SSD (Single Shot Multibox Detector).
-Consider implementing segmentation models like U-Net or Mask R-CNN for more precise jellyfish delineation.
+YOLO (You Only Look Once) is used in the model.
+
 Training and Validation:
 
 Split the dataset into training, validation, and test sets ensuring a balanced distribution of jellyfish species and environmental conditions.
